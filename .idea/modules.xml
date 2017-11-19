@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVC/MVC.iml" filepath="$PROJECT_DIR$/MVC/MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SH/SH.iml" filepath="$PROJECT_DIR$/SH/SH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSH.iml" filepath="$PROJECT_DIR$/SSH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHAnnotation/SSHAnnotation.iml" filepath="$PROJECT_DIR$/SSHAnnotation/SSHAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSHXML/SSHXML.iml" filepath="$PROJECT_DIR$/SSHXML/SSHXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2/Struts2.iml" filepath="$PROJECT_DIR$/Struts2/Struts2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TJ/TJ.iml" filepath="$PROJECT_DIR$/TJ/TJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01Test/_01Test.iml" filepath="$PROJECT_DIR$/_01Test/_01Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tms/tms.iml" filepath="$PROJECT_DIR$/tms/tms.iml" />
+    </modules>
+  </component>
+</project>

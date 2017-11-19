@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_01Test" />
+        <module name="SH" />
+        <module name="SSHAnnotation" />
+        <module name="SSHXML" />
+        <module name="Struts2" />
+        <module name="TJ" />
+        <module name="tms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_01Test" target="1.5" />
+      <module name="SH" target="1.5" />
+      <module name="SSH" target="1.5" />
+      <module name="SSHAction" target="1.5" />
+      <module name="SSHAnnotation" target="1.5" />
+      <module name="SSHXML" target="1.5" />
+      <module name="Struts2" target="1.5" />
+      <module name="TJ" target="1.5" />
+      <module name="tms" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
